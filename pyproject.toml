@@ -2,7 +2,7 @@
 name = "flaskr"
 version = "0.1.0"
 description = "A simple blog web-app made in flask "
-dependencies = ["flask"]
+dependencies = ["flask", "pytest", "coverage", "autopep8"]
 
 [build-system]
 requires = ["flit_core<4"]
