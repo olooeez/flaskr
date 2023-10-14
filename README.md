@@ -66,7 +66,7 @@ flask --app flaskr init-db
 Now you can start the Flask application locally with the following command:
 
 ```
-flask --app flaskr --run
+flask --app flaskr run
 ```
 
 The application will be available in your browser at [localhost:5000](http://localhost:5000).
